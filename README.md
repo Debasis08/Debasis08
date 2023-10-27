@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Debasis08
+- 👋 Hi, I’m Debasis
 - I want to learn coding.
 
 <!---
