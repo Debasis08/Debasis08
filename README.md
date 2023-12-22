@@ -1,3 +1,3 @@
 - 👋 Hey, I’m Debasis
-- I want to learn to code.
-- As an enthusiastic beginner, really putting my maximum effort into catching up with the software development skills starting from JAVA, C, and DSA.
+- I am excited to provide an extraordinary and user-friendly design to a webpage.
+- As an enthusiastic beginner, really putting my maximum effort into catching up with the software development skills starting from HTML, CSS, and JavaSCRIPT.
