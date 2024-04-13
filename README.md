@@ -1,6 +1,9 @@
 # Hi there 👋, I'm Ch Debasis Patro
 
-I'm a seasoned front-end developer with a robust understanding of HTML, CSS, JavaScript, Python, and Java. I have a wealth of experience in developing diverse projects using React and the CSS framework Tailwind, demonstrating my adaptability and commitment to delivering high-quality work.
+Just your friendly neighborhood Frontend Developer! I've got a knack for HTML, CSS, JavaScript, Python, and Java. I've spent a good chunk of my time building cool stuff with React and Tailwind CSS.
+Love to explore new and exciting things.
+Currently working on languages alongside projects.
+
 
 ## 🚀 Skills 
 - `HTML`
@@ -16,8 +19,8 @@ I'm a seasoned front-end developer with a robust understanding of HTML, CSS, Jav
 - `Node.js`
 
 ## 🏗️ Project 
-- [**Nexus Blog:**](https://nexus-blog-silk.vercel.app/)
+- [**Nexus Blog**](https://nexus-blog-silk.vercel.app/)
 
 ## 📫 Contact Me 
-- [Email](patrodebasis8@gmail.com)
+- Email: patrodebasis8@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/believer-of-humanity/)
