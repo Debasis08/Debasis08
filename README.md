@@ -16,8 +16,8 @@ I'm a seasoned front-end developer with a robust understanding of HTML, CSS, Jav
 - `Node.js`
 
 ## 🏗️ Project 
-- **Nexus Blog:** [(https://nexus-blog-silk.vercel.app/)](#)
+- [**Nexus Blog:**](https://nexus-blog-silk.vercel.app/)
 
 ## 📫 Contact Me 
-- Email: patrodebasis8@gmail.com
-- LinkedIn: [(https://www.linkedin.com/in/believer-of-humanity/)](#)
+- [Email](patrodebasis8@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/believer-of-humanity/)
