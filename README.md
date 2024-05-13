@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Ch Debasis Patro
+# Hi there 👋, I'm Debasis
 
 Just your friendly neighborhood Frontend Developer! I've got a knack for HTML, CSS, JavaScript, Python, and Java. I've spent a good chunk of my time building cool stuff with React and Tailwind CSS.
 Love to explore new and exciting things.
