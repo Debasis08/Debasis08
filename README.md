@@ -17,6 +17,8 @@ Currently working on languages alongside projects.
 - `Vercel`
 - `BootStrap`
 - `Node.js`
+- `Material UI`
+- `Bootstrap`
 
 ## 🏗️ Project 
 - [**Nexus Blog**](https://nexus-blog-silk.vercel.app/)
